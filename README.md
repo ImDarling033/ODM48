@@ -17,6 +17,6 @@ List des ajouts sur le site:
       
       -menu depliable (non fonctionel)
 
-explication grphique:
+explication grphique
 
-      -Je me suis inspirer des site Staycation, Airbnb et worldskill. La couleurs bleu c'est pour faire un rappelle au site de worldskill j'ai esseyer de faire une interface moderne
+Je me suis inspirer des site Staycation, Airbnb et worldskill. La couleurs bleu c'est pour faire un rappelle au site de worldskill j'ai esseyer de faire une interface moderne
