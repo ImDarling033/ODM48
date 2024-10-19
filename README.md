@@ -16,4 +16,7 @@ List des ajouts sur le site:
       -formulaire de contact (non fonctionel)
       
       -menu depliable (non fonctionel)
-      
+
+explication grphique:
+
+      -Je me suis inspirer des site Staycation, Airbnb et worldskill. La couleurs bleu c'est pour faire un rappelle au site de worldskill j'ai esseyer de faire une interface moderne
