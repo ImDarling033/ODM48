@@ -1,0 +1,17 @@
+<header class="h-24 border-y-4 bg-neutral-300 ">
+            <nav class="flex flex-none absolute">
+                <div class="justify-start">
+                    <img src="./img/WSTmini.png" class="h-20 px-5 py-5 object-left-top" alt="">
+                    <div class="h-16 pr-5 py-4 object-left-top">
+                        <h1>WorldSkill<br>Travel</h1>
+                    </div>
+                </div>
+                <div class="">
+                    <ul class="h-20 py-6 flex">
+                        <li class="self-center"><a class="h-10 px-5 py-5 object-left- bg-sky-300">Inscription</a></li>
+                        <li class="self-center"><a class="h-10 px-5 py-5 object-left- bg-sky-500">Connexion</a></li>
+                        <li class="self-center"><a class="h-10 px-5 py-5 object-left-top bg-sky-700">worldskill.org</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
